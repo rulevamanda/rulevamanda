@@ -1,4 +1,5 @@
-<h1 align="center">Greetings, traveler!</h1>
+<p align="center">
+<h1>Greetings, traveler!</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rulevamanda&show_icons=true&bg_color=45,ff99ff,656565&title_color=ff00ff&text_color=000000&icon_color=33bb00&border_color=33bb00)](https://github.com/rulevamanda/github-readme-stats)
 <br>
@@ -47,3 +48,4 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rulevamanda/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanda-rulevas/)
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rulevamanda@gmail.com)
+</p>
