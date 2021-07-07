@@ -45,7 +45,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanda-rulevas/)
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rulevamanda@gmail.com)
 
-- name: generate-snake-game-from-github-contribution-grid
 - uses: Platane/snk@master
   with:
     github_user_name: rulevamanda
