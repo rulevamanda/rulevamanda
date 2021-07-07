@@ -2,7 +2,7 @@
 # Greetings, traveler!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rulevamanda&theme=dark&show_icons=true)
+![rulevamanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=rulevamanda&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulevamanda&layout=compact&theme=highcontrast)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulevamanda&theme=radical&show_icons=true)](https://github.com/rulevamanda/github-readme-stats)
 
