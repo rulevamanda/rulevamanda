@@ -45,8 +45,4 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanda-rulevas/)
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rulevamanda@gmail.com)
 
-- uses: Platane/snk@master
-  with:
-    github_user_name: rulevamanda
-    gif_out_path: dist/github-contribution-grid-snake.gif
-
+![Snake animation](https://github.com/rulevamanda/rulevamanda/blob/output/github-contribution-grid-snake.svg)
