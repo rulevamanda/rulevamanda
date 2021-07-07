@@ -1,13 +1,16 @@
-<p align="center">
-<h1>Greetings, traveler!</h1>
+<h1 align="center">Greetings, traveler!</h1>
 
+<div align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rulevamanda&show_icons=true&bg_color=45,ff99ff,656565&title_color=ff00ff&text_color=000000&icon_color=33bb00&border_color=33bb00)](https://github.com/rulevamanda/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulevamanda&show_icons=true&bg_color=45,ff99ff,656565&title_color=ff00ff&text_color=000000&icon_color=33bb00&border_color=33bb00)](https://github.com/rulevamanda/github-readme-stats)
 <br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rulevamanda&show_icons=true&bg_color=45,ff99ff,656565&title_color=ff00ff&text_color=000000&icon_color=33bb00&border_color=33bb00)](https://github.com/rulevamanda/github-readme-stats)
 
-<div style="display: inline_block">
+</div>
+
+<div align="center" style="display: inline_block">
 
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
@@ -48,4 +51,3 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rulevamanda/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanda-rulevas/)
 [<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rulevamanda@gmail.com)
-</p>
