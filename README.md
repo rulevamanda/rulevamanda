@@ -1,5 +1,4 @@
-<h1></h1>
-# Greetings, traveler!
+<h1 align="center">Greetings, traveler!</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rulevamanda&show_icons=true&bg_color=45,ff99ff,656565&title_color=ff00ff&text_color=000000&icon_color=33bb00&border_color=33bb00)](https://github.com/rulevamanda/github-readme-stats)
 <br>
