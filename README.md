@@ -2,11 +2,10 @@
 # Greetings, traveler!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rulevamanda&show_icons=true&bg_color=45DEG,ff99ff,656565&title_color=ff00ff&text_color=000000&icon_color=33bb00&border_color=33bb00)](https://github.com/rulevamanda/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rulevamanda&show_icons=true&bg_color=45DEG,ff99ff,656565&title_color=ff00ff&text_color=000000&icon_color=33bb00&border_color=33bb00)](https://github.com/rulevamanda/github-readme-stats)
+<br>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rulevamanda&show_icons=true&bg_color=45DEG,ff99ff,656565&title_color=ff00ff&text_color=000000&icon_color=33bb00&border_color=33bb00)](https://github.com/rulevamanda/github-readme-stats)
-
-
-
 
 <div style="display: inline_block">
 
