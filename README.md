@@ -1,34 +1,27 @@
 <h1 align="center">Greetings, traveler!</h1>
 
-<div class="row">
-  
-  <div class="column" align="center">
+<div align="center">
     <a href="https://github.com/rulevamanda/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rulevamanda&show_icons=true&bg_color=30,000000,3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
-      </a>
-      <br>
-      <a href="https://github.com/rulevamanda/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rulevamanda&show_icons=true&bg_color=30,000000,3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
-      </a>  
-  </div>
-  
-  <div class="column" align="center">
-    <a href="https://github.com/rulevamanda/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulevamanda&show_icons=true&bg_color=30,000000,3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=rulevamanda&show_icons=true&bg_color=3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
     </a>
-  </div>
-  
+  <br>
+    <a href="https://github.com/rulevamanda/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rulevamanda&show_icons=true&bg_color=3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
+    </a>
+  <br>
+    <a href="https://github.com/rulevamanda/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulevamanda&show_icons=true&bg_color=3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
+    </a>
 </div>
 
-
-
-
-</div>
+<br>
 
 <hr>
 
-<div align="center" style="display: inline_block">
+<br>
 
+<div align="center">
+  
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Java" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 </a>
@@ -61,14 +54,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
 
-</div>
-
-<hr>
-
-<div align="center">
+  <br>
+  <br>
   
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rulevamanda/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanda-rulevas/)
-[<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rulevamanda@gmail.com)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rulevamanda/)<br>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanda-rulevas/)<br>
+[<img src="https://img.shields.io/badge/-gmail-2EC866?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rulevamanda@gmail.com)<br>
 
 </div>
