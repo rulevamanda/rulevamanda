@@ -1,18 +1,27 @@
 <h1 align="center">Greetings, traveler!</h1>
 
-<div align="center">
+<div class="row">
   
-<a href="https://github.com/rulevamanda/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rulevamanda&show_icons=true&bg_color=30,000000,3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
-</a>
+  <div class="column" align="center">
+    <a href="https://github.com/rulevamanda/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=rulevamanda&show_icons=true&bg_color=30,000000,3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
+      </a>
+      <br>
+      <a href="https://github.com/rulevamanda/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rulevamanda&show_icons=true&bg_color=30,000000,3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
+      </a>  
+  </div>
   
-<a href="https://github.com/rulevamanda/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulevamanda&show_icons=true&bg_color=30,000000,3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
-</a>
+  <div class="column" align="center">
+    <a href="https://github.com/rulevamanda/github-readme-stats">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulevamanda&show_icons=true&bg_color=30,000000,3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
+    </a>
+  </div>
   
-<a href="https://github.com/rulevamanda/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rulevamanda&show_icons=true&bg_color=30,000000,3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
-</a>
+</div>
+
+
+
 
 </div>
 
