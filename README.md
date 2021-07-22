@@ -63,8 +63,8 @@
     <a href="https://github.com/rulevamanda">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulevamanda&show_icons=true&bg_color=3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
     </a>
-    <br>
+<!--     <br>
     <a href="https://wakatime.com/@rulevamanda">
       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=rulevamanda&show_icons=true&bg_color=3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
-    </a>
+    </a> -->
 </div>
