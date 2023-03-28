@@ -47,8 +47,11 @@
 [<img src = "https://img.shields.io/badge/instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rulevamanda/)
 [<img src="https://img.shields.io/badge/linkedin-%230a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanda-rulevas/)
 [<img src="https://img.shields.io/badge/-gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rulevamanda@gmail.com)
+
+<!--
 [<img src="https://img.shields.io/badge/-blog-fc4f08?style=for-the-badge&logo=blogger&logoColor=white" />](https://rulevaventura.blogspot.com)
 [<img src="https://img.shields.io/badge/-facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/rulevamanda)
+-->
 
 </div>
 
@@ -59,9 +62,9 @@
     <a href="https://github.com/rulevamanda">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=rulevamanda&show_icons=true&bg_color=3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
     </a>
-<!--     <br> -->
+    <br>
     <a href="https://github.com/rulevamanda">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rulevamanda&show_icons=true&bg_color=3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rulevamanda&show_icons=true&bg_color=3a3a3a&title_color=ff44ff&text_color=ffeeff&icon_color=ff44ff&border_color=ff44ff" />
     </a>
 <!--     <br>
     <a href="https://wakatime.com/@rulevamanda">
